@@ -1,6 +1,6 @@
 applications:
-- name: omri-node-env
+- name: node-env
   mem: 256M
-  host: omri-node-env
-#  domain: 52.25.144.154.nip.io
-  domain: hcf.helion.lol 
+  host: node-env
+  domain: hcf.cnap.io  
+  buildpack: nodejs_buildpack
