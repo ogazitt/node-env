@@ -7,10 +7,4 @@ Good single-container demo for SnapMaster!
 ## Local development
 
     node server.js
-
-
-
     
-    
-    
-
