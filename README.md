@@ -8,9 +8,3 @@ Good single-container demo for Puppet Pipelines!
 
     node server.js
 
-
-
-    
-    
-    
-
